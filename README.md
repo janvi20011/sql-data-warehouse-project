@@ -91,6 +91,15 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
+## About Me
 
+Hi, I'm a recent B.Tech graduate in Computer Science and Engineering with a specialization in Data Science. I'm passionate about Data Analytics and enjoy working with data to discover insights and support data-driven decision-making.
+
+- **Skills:** SQL, Excel, Python, Power BI
+- **Interests:** Data Analytics, Business Intelligence, Data Visualization, and Data Warehousing
+- **Currently Learning:** SQL, Advanced Excel, Power BI, and Data Analytics
+- **Goal:** To build practical projects, strengthen my analytical skills, and grow as a Data Analyst.
+
+I'm continuously learning and improving my skills by working on hands-on projects and exploring real-world datasets.
 
 
