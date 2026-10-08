@@ -17,6 +17,8 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 - **Silver Layer:** This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 - **Gold Layer:** Houses business-ready data modeled into a star schema required for reporting and analytics.
 
+<img width="1162" height="816" alt="DataWarehouse" src="https://github.com/user-attachments/assets/ed5aab07-d578-45be-a76e-b48243e48c01" />
+
 ## Project Overview
 
 This project involves:
@@ -89,7 +91,6 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
-## DataArchitecture
-<img width="1162" height="816" alt="DataWarehouse" src="https://github.com/user-attachments/assets/ed5aab07-d578-45be-a76e-b48243e48c01" />
+
 
 
